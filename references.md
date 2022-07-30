@@ -1,3 +1,4 @@
 ## References
 
-- Stackoverflow 📖
+- Stackoverflow :book:  
+* octocat 1 😈
